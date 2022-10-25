@@ -29,4 +29,5 @@ Parsed all the scraped data into a data frame and hence stored it in a CSV file 
 
 📫 How to reach me sanjaynycws@gmail.com
 
-My Resume 
+My Resume[Sanjay Veeraragavulu - Resume.pdf](https://github.com/sanjayfintech11/sanjay_profilebio/files/9860089/Sanjay.Veeraragavulu.-.Resume.pdf)
+
